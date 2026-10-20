@@ -83,31 +83,6 @@ The original catalog and saved-course keys are preserved. Existing valid data re
 
 State is kept close to its use. Form values live in the modal; notes live in the learning panel; layout lives in the catalog. Shared saved/progress state lives in `useLibrary`, called by `App`. The detail component has `key={route.course}`, so changing courses resets local note state deliberately. API responses are rendered through props and stable keys. React owns the DOM; refs are used for accessibility focus only.
 
-## Deploy to GitHub Pages
 
-A deployment workflow is included at `.github/workflows/deploy.yml`.
 
-1. Put the project contents at the root of your GitHub repository, including `package-lock.json` and `.github/`.
-2. In the repository, open **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-3. Push to `main`, or run **Deploy StudyHub to GitHub Pages** from the Actions tab.
-4. Wait for the workflow to succeed. Open the deployment URL shown by GitHub and check the app there.
 
-The workflow runs tests and builds before publishing. `base: './'` generates relative assets, so the same build works at the site root or a repository subpath. Query-string navigation does not require route rewrites.
-
-If you already use the original `gh-pages` branch workflow, you can keep it instead: run `npm run deploy` and configure Pages to publish from `gh-pages` / root. Choose one deployment method.
-
-**Deployment status:** this archive is prepared for deployment; creating it does not publish the site or update an existing live deployment.
-
-Official references: [Vite deployment](https://vite.dev/guide/static-deploy), [relative asset base](https://vite.dev/guide/build#relative-base), [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
-
-## Before submission
-
-- Run tests and a production build.
-- Open your public deployed URL in another browser.
-- Check search, filters, sorting, pagination, details, saved courses, creation, and refresh.
-- Confirm there are 120 initial records on a fresh origin.
-- Submit the GitHub repository URL and deployed application URL.
-- Press **Turn in** before the deadline.
-
-Russian setup and migration instructions: `START_HERE_RU.md`.  
-Defense explanations and demonstration plan: `DEFENSE_GUIDE_RU.md`.
