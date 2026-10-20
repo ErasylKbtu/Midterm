@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "course-001",
+    "title": "Modern JavaScript Essentials",
+    "description": "Write reliable browser logic with modern JavaScript features. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Beginner",
+    "durationHours": 3,
+    "lessons": 8,
+    "instructor": "Lina Park",
+    "publishedAt": "2026-08-13",
+    "outcomes": [
+      "Explain the main principles of modern javascript essentials.",
+      "Practice modern javascript essentials through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-002",
+    "title": "Data Analysis with Pandas",
+    "description": "Clean, transform, and explore tabular datasets. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Beginner",
+    "durationHours": 5,
+    "lessons": 11,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2026-01-30",
+    "outcomes": [
+      "Explain the main principles of data analysis with pandas.",
+      "Practice data analysis with pandas through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-003",
+    "title": "UI Design Foundations",
+    "description": "Use hierarchy, spacing, and contrast with confidence. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationHours": 7,
+    "lessons": 14,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-05-05",
+    "outcomes": [
+      "Explain the main principles of ui design foundations.",
+      "Practice ui design foundations through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-004",
+    "title": "Product Management Basics",
+    "description": "Understand product discovery, delivery, and outcomes. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Intermediate",
+    "durationHours": 9,
+    "lessons": 17,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2026-08-08",
+    "outcomes": [
+      "Explain the main principles of product management basics.",
+      "Practice product management basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-005",
+    "title": "AI Literacy for Everyone",
+    "description": "Understand what modern AI can and cannot do. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Advanced",
+    "durationHours": 11,
+    "lessons": 20,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-01-25",
+    "outcomes": [
+      "Explain the main principles of ai literacy for everyone.",
+      "Practice ai literacy for everyone through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-006",
+    "title": "Digital Marketing Foundations",
+    "description": "Learn channels, goals, and the customer journey. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Advanced",
+    "durationHours": 13,
+    "lessons": 23,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-04-30",
+    "outcomes": [
+      "Explain the main principles of digital marketing foundations.",
+      "Practice digital marketing foundations through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-007",
+    "title": "Personal Productivity Systems",
+    "description": "Build a sustainable system for tasks and commitments. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Beginner",
+    "durationHours": 15,
+    "lessons": 26,
+    "instructor": "Maya Chen",
+    "publishedAt": "2026-08-03",
+    "outcomes": [
+      "Explain the main principles of personal productivity systems.",
+      "Practice personal productivity systems through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-008",
+    "title": "Cybersecurity Foundations",
+    "description": "Understand common threats and everyday protections. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "durationHours": 17,
+    "lessons": 29,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-01-20",
+    "outcomes": [
+      "Explain the main principles of cybersecurity foundations.",
+      "Practice cybersecurity foundations through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-009",
+    "title": "React From First Principles",
+    "description": "Build reusable interfaces using components, props, and state. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationHours": 6,
+    "lessons": 13,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2026-07-31",
+    "outcomes": [
+      "Explain the main principles of react from first principles.",
+      "Practice react from first principles through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-010",
+    "title": "NumPy Made Practical",
+    "description": "Work with arrays, broadcasting, and numerical operations. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "durationHours": 8,
+    "lessons": 16,
+    "instructor": "Noah Williams",
+    "publishedAt": "2026-01-17",
+    "outcomes": [
+      "Explain the main principles of numpy made practical.",
+      "Practice numpy made practical through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-011",
+    "title": "Design Systems Starter Kit",
+    "description": "Make scalable interfaces with reusable visual rules. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Advanced",
+    "durationHours": 10,
+    "lessons": 19,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-04-22",
+    "outcomes": [
+      "Explain the main principles of design systems starter kit.",
+      "Practice design systems starter kit through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-012",
+    "title": "Business Model Canvas",
+    "description": "Turn an early idea into a testable business model. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Advanced",
+    "durationHours": 12,
+    "lessons": 22,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2026-07-26",
+    "outcomes": [
+      "Explain the main principles of business model canvas.",
+      "Practice business model canvas through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-013",
+    "title": "Prompting for Better Results",
+    "description": "Write clear instructions and evaluate AI outputs. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Beginner",
+    "durationHours": 14,
+    "lessons": 25,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2026-01-12",
+    "outcomes": [
+      "Explain the main principles of prompting for better results.",
+      "Practice prompting for better results through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-014",
+    "title": "Content Strategy Workshop",
+    "description": "Plan meaningful content around audience questions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "durationHours": 16,
+    "lessons": 28,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-04-17",
+    "outcomes": [
+      "Explain the main principles of content strategy workshop.",
+      "Practice content strategy workshop through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-015",
+    "title": "Time Blocking in Practice",
+    "description": "Plan focused work without overloading your calendar. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Intermediate",
+    "durationHours": 18,
+    "lessons": 31,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2026-07-21",
+    "outcomes": [
+      "Explain the main principles of time blocking in practice.",
+      "Practice time blocking in practice through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-016",
+    "title": "Password and Identity Security",
+    "description": "Use authentication concepts and account safeguards. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Intermediate",
+    "durationHours": 3,
+    "lessons": 8,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-01-07",
+    "outcomes": [
+      "Explain the main principles of password and identity security.",
+      "Practice password and identity security through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-017",
+    "title": "TypeScript for Real Projects",
+    "description": "Bring type safety to everyday frontend development. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Advanced",
+    "durationHours": 9,
+    "lessons": 18,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-07-18",
+    "outcomes": [
+      "Explain the main principles of typescript for real projects.",
+      "Practice typescript for real projects through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-018",
+    "title": "Exploratory Data Analysis",
+    "description": "Find patterns and ask better questions of datasets. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Advanced",
+    "durationHours": 11,
+    "lessons": 21,
+    "instructor": "Maya Chen",
+    "publishedAt": "2026-01-04",
+    "outcomes": [
+      "Explain the main principles of exploratory data analysis.",
+      "Practice exploratory data analysis through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-019",
+    "title": "Figma for Product Teams",
+    "description": "Turn ideas into components and clickable prototypes. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Beginner",
+    "durationHours": 13,
+    "lessons": 24,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-04-09",
+    "outcomes": [
+      "Explain the main principles of figma for product teams.",
+      "Practice figma for product teams through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-020",
+    "title": "Customer Discovery Interviews",
+    "description": "Ask questions that reveal genuine customer problems. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Beginner",
+    "durationHours": 15,
+    "lessons": 27,
+    "instructor": "Lina Park",
+    "publishedAt": "2026-07-13",
+    "outcomes": [
+      "Explain the main principles of customer discovery interviews.",
+      "Practice customer discovery interviews through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-021",
+    "title": "Generative AI Workflows",
+    "description": "Use generative models responsibly in daily projects. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Intermediate",
+    "durationHours": 17,
+    "lessons": 30,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2025-12-30",
+    "outcomes": [
+      "Explain the main principles of generative ai workflows.",
+      "Practice generative ai workflows through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-022",
+    "title": "Search Engine Optimization",
+    "description": "Improve discoverability through structure and relevance. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "durationHours": 19,
+    "lessons": 33,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-04-04",
+    "outcomes": [
+      "Explain the main principles of search engine optimization.",
+      "Practice search engine optimization through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-023",
+    "title": "Notion Workspace Fundamentals",
+    "description": "Organize notes, projects, and repeatable templates. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Advanced",
+    "durationHours": 4,
+    "lessons": 10,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2026-07-08",
+    "outcomes": [
+      "Explain the main principles of notion workspace fundamentals.",
+      "Practice notion workspace fundamentals through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-024",
+    "title": "Web Application Security Basics",
+    "description": "Recognize common application risks and mitigations. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Advanced",
+    "durationHours": 6,
+    "lessons": 13,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2025-12-25",
+    "outcomes": [
+      "Explain the main principles of web application security basics.",
+      "Practice web application security basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-025",
+    "title": "HTML & CSS Foundations",
+    "description": "Structure and style accessible web pages from scratch. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Beginner",
+    "durationHours": 12,
+    "lessons": 23,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-07-05",
+    "outcomes": [
+      "Explain the main principles of html & css foundations.",
+      "Practice html & css foundations through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-026",
+    "title": "Python Data Visualization",
+    "description": "Turn raw numbers into readable charts and narratives. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Beginner",
+    "durationHours": 14,
+    "lessons": 26,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2025-12-22",
+    "outcomes": [
+      "Explain the main principles of python data visualization.",
+      "Practice python data visualization through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-027",
+    "title": "Typography for Interfaces",
+    "description": "Choose and arrange type for comfortable reading. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationHours": 16,
+    "lessons": 29,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-03-27",
+    "outcomes": [
+      "Explain the main principles of typography for interfaces.",
+      "Practice typography for interfaces through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-028",
+    "title": "Agile Sprint Planning",
+    "description": "Prioritize work and run focused delivery cycles. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Intermediate",
+    "durationHours": 18,
+    "lessons": 32,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2026-06-30",
+    "outcomes": [
+      "Explain the main principles of agile sprint planning.",
+      "Practice agile sprint planning through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-029",
+    "title": "Intro to Large Language Models",
+    "description": "Explore tokens, context windows, and model behavior. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Advanced",
+    "durationHours": 3,
+    "lessons": 9,
+    "instructor": "Noah Williams",
+    "publishedAt": "2025-12-17",
+    "outcomes": [
+      "Explain the main principles of intro to large language models.",
+      "Practice intro to large language models through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-030",
+    "title": "Social Media Planning",
+    "description": "Build realistic social calendars and content experiments. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Advanced",
+    "durationHours": 5,
+    "lessons": 12,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-03-22",
+    "outcomes": [
+      "Explain the main principles of social media planning.",
+      "Practice social media planning through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-031",
+    "title": "Deep Work for Students",
+    "description": "Protect attention for meaningful learning sessions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Beginner",
+    "durationHours": 7,
+    "lessons": 15,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2026-06-25",
+    "outcomes": [
+      "Explain the main principles of deep work for students.",
+      "Practice deep work for students through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-032",
+    "title": "Security Awareness at Work",
+    "description": "Spot suspicious messages and safer daily practices. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "durationHours": 9,
+    "lessons": 18,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2025-12-12",
+    "outcomes": [
+      "Explain the main principles of security awareness at work.",
+      "Practice security awareness at work through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-033",
+    "title": "Advanced CSS Layouts",
+    "description": "Master Grid, Flexbox, and responsive design patterns. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationHours": 15,
+    "lessons": 28,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-06-22",
+    "outcomes": [
+      "Explain the main principles of advanced css layouts.",
+      "Practice advanced css layouts through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-034",
+    "title": "Statistics for Beginners",
+    "description": "Understand variation, averages, probability, and inference. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "durationHours": 17,
+    "lessons": 31,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2025-12-09",
+    "outcomes": [
+      "Explain the main principles of statistics for beginners.",
+      "Practice statistics for beginners through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-035",
+    "title": "Color Theory in Digital Products",
+    "description": "Build purposeful palettes and accessible combinations. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Advanced",
+    "durationHours": 19,
+    "lessons": 8,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-03-14",
+    "outcomes": [
+      "Explain the main principles of color theory in digital products.",
+      "Practice color theory in digital products through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-036",
+    "title": "Project Scope and Roadmaps",
+    "description": "Translate goals into realistic milestones and boundaries. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Advanced",
+    "durationHours": 4,
+    "lessons": 11,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-06-17",
+    "outcomes": [
+      "Explain the main principles of project scope and roadmaps.",
+      "Practice project scope and roadmaps through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-037",
+    "title": "Building Simple AI Assistants",
+    "description": "Design helpful assistant flows and useful guardrails. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Beginner",
+    "durationHours": 6,
+    "lessons": 14,
+    "instructor": "Maya Chen",
+    "publishedAt": "2025-12-04",
+    "outcomes": [
+      "Explain the main principles of building simple ai assistants.",
+      "Practice building simple ai assistants through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-038",
+    "title": "Email Marketing Essentials",
+    "description": "Write helpful campaigns and understand engagement. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "durationHours": 8,
+    "lessons": 17,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-03-09",
+    "outcomes": [
+      "Explain the main principles of email marketing essentials.",
+      "Practice email marketing essentials through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-039",
+    "title": "Effective Note Taking",
+    "description": "Capture ideas and turn notes into practical knowledge. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Intermediate",
+    "durationHours": 10,
+    "lessons": 20,
+    "instructor": "Lina Park",
+    "publishedAt": "2026-06-12",
+    "outcomes": [
+      "Explain the main principles of effective note taking.",
+      "Practice effective note taking through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-040",
+    "title": "Network Security Concepts",
+    "description": "Learn how networks communicate and where risks arise. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Intermediate",
+    "durationHours": 12,
+    "lessons": 23,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2025-11-29",
+    "outcomes": [
+      "Explain the main principles of network security concepts.",
+      "Practice network security concepts through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-041",
+    "title": "Node.js API Fundamentals",
+    "description": "Build clear server endpoints and asynchronous workflows. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Advanced",
+    "durationHours": 18,
+    "lessons": 33,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-06-09",
+    "outcomes": [
+      "Explain the main principles of node.js api fundamentals.",
+      "Practice node.js api fundamentals through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-042",
+    "title": "SQL Analytics Toolkit",
+    "description": "Use aggregations, joins, and window functions for insights. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Advanced",
+    "durationHours": 3,
+    "lessons": 10,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2025-11-26",
+    "outcomes": [
+      "Explain the main principles of sql analytics toolkit.",
+      "Practice sql analytics toolkit through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-043",
+    "title": "Mobile App Design Patterns",
+    "description": "Create intuitive layouts for smaller screens. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Beginner",
+    "durationHours": 5,
+    "lessons": 13,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2026-03-01",
+    "outcomes": [
+      "Explain the main principles of mobile app design patterns.",
+      "Practice mobile app design patterns through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-044",
+    "title": "Business Analytics Essentials",
+    "description": "Use data to support day-to-day business decisions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Beginner",
+    "durationHours": 7,
+    "lessons": 16,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-06-04",
+    "outcomes": [
+      "Explain the main principles of business analytics essentials.",
+      "Practice business analytics essentials through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-045",
+    "title": "Automation with Python",
+    "description": "Save time by scripting repeatable computer tasks. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Intermediate",
+    "durationHours": 9,
+    "lessons": 19,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2025-11-21",
+    "outcomes": [
+      "Explain the main principles of automation with python.",
+      "Practice automation with python through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-046",
+    "title": "Marketing Analytics Basics",
+    "description": "Read campaign results and connect metrics to decisions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "durationHours": 11,
+    "lessons": 22,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-02-24",
+    "outcomes": [
+      "Explain the main principles of marketing analytics basics.",
+      "Practice marketing analytics basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-047",
+    "title": "Planning Weekly Reviews",
+    "description": "Reflect on progress and adjust your next priorities. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Advanced",
+    "durationHours": 13,
+    "lessons": 25,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2026-05-30",
+    "outcomes": [
+      "Explain the main principles of planning weekly reviews.",
+      "Practice planning weekly reviews through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-048",
+    "title": "Incident Response Planning",
+    "description": "Prepare clear steps for handling a security incident. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Advanced",
+    "durationHours": 15,
+    "lessons": 28,
+    "instructor": "Noah Williams",
+    "publishedAt": "2025-11-16",
+    "outcomes": [
+      "Explain the main principles of incident response planning.",
+      "Practice incident response planning through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-049",
+    "title": "Git & GitHub Workflow",
+    "description": "Manage versions, branches, pull requests, and releases. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Beginner",
+    "durationHours": 4,
+    "lessons": 12,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-05-27",
+    "outcomes": [
+      "Explain the main principles of git & github workflow.",
+      "Practice git & github workflow through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-050",
+    "title": "Data Cleaning Workflows",
+    "description": "Handle missing values, duplicates, and inconsistent data. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Beginner",
+    "durationHours": 6,
+    "lessons": 15,
+    "instructor": "Lina Park",
+    "publishedAt": "2025-11-13",
+    "outcomes": [
+      "Explain the main principles of data cleaning workflows.",
+      "Practice data cleaning workflows through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-051",
+    "title": "User Research Essentials",
+    "description": "Learn from interviews and uncover real user needs. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationHours": 8,
+    "lessons": 18,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2026-02-16",
+    "outcomes": [
+      "Explain the main principles of user research essentials.",
+      "Practice user research essentials through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-052",
+    "title": "Startup Financial Planning",
+    "description": "Make simple budgets, forecasts, and cost estimates. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Intermediate",
+    "durationHours": 10,
+    "lessons": 21,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-05-22",
+    "outcomes": [
+      "Explain the main principles of startup financial planning.",
+      "Practice startup financial planning through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-053",
+    "title": "No-Code Automation Basics",
+    "description": "Connect tools and move information between workflows. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Advanced",
+    "durationHours": 12,
+    "lessons": 24,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2026-08-25",
+    "outcomes": [
+      "Explain the main principles of no-code automation basics.",
+      "Practice no-code automation basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-054",
+    "title": "Brand Positioning",
+    "description": "Explain what makes a product relevant and distinct. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Advanced",
+    "durationHours": 14,
+    "lessons": 27,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-02-11",
+    "outcomes": [
+      "Explain the main principles of brand positioning.",
+      "Practice brand positioning through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-055",
+    "title": "Task Prioritization Methods",
+    "description": "Use simple frameworks to choose what matters now. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Beginner",
+    "durationHours": 16,
+    "lessons": 30,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-05-17",
+    "outcomes": [
+      "Explain the main principles of task prioritization methods.",
+      "Practice task prioritization methods through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-056",
+    "title": "Threat Modeling Workshop",
+    "description": "Identify assets, boundaries, and likely risk scenarios. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "durationHours": 18,
+    "lessons": 33,
+    "instructor": "Maya Chen",
+    "publishedAt": "2026-08-20",
+    "outcomes": [
+      "Explain the main principles of threat modeling workshop.",
+      "Practice threat modeling workshop through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-057",
+    "title": "Python Programming Basics",
+    "description": "Learn to think in code with practical Python exercises. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationHours": 7,
+    "lessons": 17,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-05-14",
+    "outcomes": [
+      "Explain the main principles of python programming basics.",
+      "Practice python programming basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-058",
+    "title": "Dashboards with Plotly",
+    "description": "Build interactive charts and clear reporting views. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "durationHours": 9,
+    "lessons": 20,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2026-08-17",
+    "outcomes": [
+      "Explain the main principles of dashboards with plotly.",
+      "Practice dashboards with plotly through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-059",
+    "title": "Wireframing and User Flows",
+    "description": "Plan journeys before diving into polished visuals. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Advanced",
+    "durationHours": 11,
+    "lessons": 23,
+    "instructor": "Noah Williams",
+    "publishedAt": "2026-02-03",
+    "outcomes": [
+      "Explain the main principles of wireframing and user flows.",
+      "Practice wireframing and user flows through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-060",
+    "title": "Stakeholder Communication",
+    "description": "Share progress and handle expectations with clarity. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Advanced",
+    "durationHours": 13,
+    "lessons": 26,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-05-09",
+    "outcomes": [
+      "Explain the main principles of stakeholder communication.",
+      "Practice stakeholder communication through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-061",
+    "title": "Responsible AI Principles",
+    "description": "Consider privacy, fairness, and real-world limitations. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Beginner",
+    "durationHours": 15,
+    "lessons": 29,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2026-08-12",
+    "outcomes": [
+      "Explain the main principles of responsible ai principles.",
+      "Practice responsible ai principles through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-062",
+    "title": "Audience Segmentation",
+    "description": "Group audiences by needs and useful behaviors. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "durationHours": 17,
+    "lessons": 32,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2026-01-29",
+    "outcomes": [
+      "Explain the main principles of audience segmentation.",
+      "Practice audience segmentation through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-063",
+    "title": "Collaborative Workflows",
+    "description": "Coordinate shared tasks and reduce communication friction. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Intermediate",
+    "durationHours": 19,
+    "lessons": 9,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-05-04",
+    "outcomes": [
+      "Explain the main principles of collaborative workflows.",
+      "Practice collaborative workflows through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-064",
+    "title": "Secure Coding Fundamentals",
+    "description": "Build safer habits when writing application code. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Intermediate",
+    "durationHours": 4,
+    "lessons": 12,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2026-08-07",
+    "outcomes": [
+      "Explain the main principles of secure coding fundamentals.",
+      "Practice secure coding fundamentals through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-065",
+    "title": "SQL for Application Developers",
+    "description": "Query, connect, and maintain relational data. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Advanced",
+    "durationHours": 10,
+    "lessons": 22,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-05-01",
+    "outcomes": [
+      "Explain the main principles of sql for application developers.",
+      "Practice sql for application developers through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-066",
+    "title": "Machine Learning Foundations",
+    "description": "Understand training data, features, and evaluation. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Advanced",
+    "durationHours": 12,
+    "lessons": 25,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-08-04",
+    "outcomes": [
+      "Explain the main principles of machine learning foundations.",
+      "Practice machine learning foundations through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-067",
+    "title": "Accessibility for Designers",
+    "description": "Design flexible experiences for diverse abilities. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Beginner",
+    "durationHours": 14,
+    "lessons": 28,
+    "instructor": "Maya Chen",
+    "publishedAt": "2026-01-21",
+    "outcomes": [
+      "Explain the main principles of accessibility for designers.",
+      "Practice accessibility for designers through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-068",
+    "title": "Market Research Methods",
+    "description": "Evaluate customer segments and competing solutions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Beginner",
+    "durationHours": 16,
+    "lessons": 31,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-04-26",
+    "outcomes": [
+      "Explain the main principles of market research methods.",
+      "Practice market research methods through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-069",
+    "title": "AI for Research and Learning",
+    "description": "Organize information and verify generated answers. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Intermediate",
+    "durationHours": 18,
+    "lessons": 8,
+    "instructor": "Lina Park",
+    "publishedAt": "2026-07-30",
+    "outcomes": [
+      "Explain the main principles of ai for research and learning.",
+      "Practice ai for research and learning through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-070",
+    "title": "Copywriting for Landing Pages",
+    "description": "Communicate value clearly in short website copy. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "durationHours": 3,
+    "lessons": 11,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2026-01-16",
+    "outcomes": [
+      "Explain the main principles of copywriting for landing pages.",
+      "Practice copywriting for landing pages through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-071",
+    "title": "Building Better Habits",
+    "description": "Design small, repeatable routines that fit daily life. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Advanced",
+    "durationHours": 5,
+    "lessons": 14,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-04-21",
+    "outcomes": [
+      "Explain the main principles of building better habits.",
+      "Practice building better habits through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-072",
+    "title": "Privacy by Design",
+    "description": "Apply data minimization and user-centered privacy choices. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Advanced",
+    "durationHours": 7,
+    "lessons": 17,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2026-07-25",
+    "outcomes": [
+      "Explain the main principles of privacy by design.",
+      "Practice privacy by design through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-073",
+    "title": "REST API Design",
+    "description": "Plan predictable endpoints and helpful responses. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Beginner",
+    "durationHours": 13,
+    "lessons": 27,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2026-04-18",
+    "outcomes": [
+      "Explain the main principles of rest api design.",
+      "Practice rest api design through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-074",
+    "title": "Practical Regression Models",
+    "description": "Predict continuous outcomes and examine assumptions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Beginner",
+    "durationHours": 15,
+    "lessons": 30,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-07-22",
+    "outcomes": [
+      "Explain the main principles of practical regression models.",
+      "Practice practical regression models through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-075",
+    "title": "UX Writing and Microcopy",
+    "description": "Make interface messages clear and genuinely helpful. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationHours": 17,
+    "lessons": 33,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2026-01-08",
+    "outcomes": [
+      "Explain the main principles of ux writing and microcopy.",
+      "Practice ux writing and microcopy through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-076",
+    "title": "Pricing Strategy Basics",
+    "description": "Connect product value to sustainable price decisions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Intermediate",
+    "durationHours": 19,
+    "lessons": 10,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-04-13",
+    "outcomes": [
+      "Explain the main principles of pricing strategy basics.",
+      "Practice pricing strategy basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-077",
+    "title": "Intro to Computer Vision",
+    "description": "Explore image classification and common visual tasks. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Advanced",
+    "durationHours": 4,
+    "lessons": 13,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2026-07-17",
+    "outcomes": [
+      "Explain the main principles of intro to computer vision.",
+      "Practice intro to computer vision through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-078",
+    "title": "Customer Journey Mapping",
+    "description": "Identify the moments that shape user decisions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Advanced",
+    "durationHours": 6,
+    "lessons": 16,
+    "instructor": "Noah Williams",
+    "publishedAt": "2026-01-03",
+    "outcomes": [
+      "Explain the main principles of customer journey mapping.",
+      "Practice customer journey mapping through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-079",
+    "title": "Writing Clear Documentation",
+    "description": "Make useful instructions and project notes easier to read. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Beginner",
+    "durationHours": 8,
+    "lessons": 19,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-04-08",
+    "outcomes": [
+      "Explain the main principles of writing clear documentation.",
+      "Practice writing clear documentation through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-080",
+    "title": "Access Control and Permissions",
+    "description": "Understand roles, privileges, and least privilege. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "durationHours": 10,
+    "lessons": 22,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2026-07-12",
+    "outcomes": [
+      "Explain the main principles of access control and permissions.",
+      "Practice access control and permissions through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-081",
+    "title": "Testing React Applications",
+    "description": "Write focused tests for interfaces and user actions. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationHours": 16,
+    "lessons": 32,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2026-04-05",
+    "outcomes": [
+      "Explain the main principles of testing react applications.",
+      "Practice testing react applications through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-082",
+    "title": "Classification from Scratch",
+    "description": "Compare classifiers and interpret prediction quality. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "durationHours": 18,
+    "lessons": 9,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-07-09",
+    "outcomes": [
+      "Explain the main principles of classification from scratch.",
+      "Practice classification from scratch through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-083",
+    "title": "Usability Testing Basics",
+    "description": "Observe interaction, spot friction, and validate fixes. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Advanced",
+    "durationHours": 3,
+    "lessons": 12,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2025-12-26",
+    "outcomes": [
+      "Explain the main principles of usability testing basics.",
+      "Practice usability testing basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-084",
+    "title": "KPI and OKR Design",
+    "description": "Choose useful indicators and track meaningful progress. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Advanced",
+    "durationHours": 5,
+    "lessons": 15,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-03-31",
+    "outcomes": [
+      "Explain the main principles of kpi and okr design.",
+      "Practice kpi and okr design through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-085",
+    "title": "Natural Language Processing",
+    "description": "Work with text classification and language features. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Beginner",
+    "durationHours": 7,
+    "lessons": 18,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-07-04",
+    "outcomes": [
+      "Explain the main principles of natural language processing.",
+      "Practice natural language processing through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-086",
+    "title": "A/B Testing for Marketers",
+    "description": "Run controlled experiments and interpret differences. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "durationHours": 9,
+    "lessons": 21,
+    "instructor": "Maya Chen",
+    "publishedAt": "2025-12-21",
+    "outcomes": [
+      "Explain the main principles of a/b testing for marketers.",
+      "Practice a/b testing for marketers through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-087",
+    "title": "Digital Organization",
+    "description": "Create file structures you can find and maintain. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Intermediate",
+    "durationHours": 11,
+    "lessons": 24,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-03-26",
+    "outcomes": [
+      "Explain the main principles of digital organization.",
+      "Practice digital organization through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-088",
+    "title": "Cloud Security Essentials",
+    "description": "Recognize common cloud configuration responsibilities. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Intermediate",
+    "durationHours": 13,
+    "lessons": 27,
+    "instructor": "Lina Park",
+    "publishedAt": "2026-06-29",
+    "outcomes": [
+      "Explain the main principles of cloud security essentials.",
+      "Practice cloud security essentials through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-089",
+    "title": "Web Accessibility in Practice",
+    "description": "Create inclusive web experiences that work for everyone. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Advanced",
+    "durationHours": 19,
+    "lessons": 11,
+    "instructor": "Noah Williams",
+    "publishedAt": "2026-03-23",
+    "outcomes": [
+      "Explain the main principles of web accessibility in practice.",
+      "Practice web accessibility in practice through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-090",
+    "title": "Time Series Fundamentals",
+    "description": "Explore trends, seasonality, and simple forecasts. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Advanced",
+    "durationHours": 4,
+    "lessons": 14,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-06-26",
+    "outcomes": [
+      "Explain the main principles of time series fundamentals.",
+      "Practice time series fundamentals through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-091",
+    "title": "Prototyping Interactions",
+    "description": "Connect screens and communicate meaningful behavior. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Beginner",
+    "durationHours": 6,
+    "lessons": 17,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2025-12-13",
+    "outcomes": [
+      "Explain the main principles of prototyping interactions.",
+      "Practice prototyping interactions through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-092",
+    "title": "Pitch Deck Storytelling",
+    "description": "Explain a product opportunity with a compelling narrative. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Beginner",
+    "durationHours": 8,
+    "lessons": 20,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2026-03-18",
+    "outcomes": [
+      "Explain the main principles of pitch deck storytelling.",
+      "Practice pitch deck storytelling through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-093",
+    "title": "Evaluating AI Outputs",
+    "description": "Build checks for accuracy, consistency, and usefulness. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Intermediate",
+    "durationHours": 10,
+    "lessons": 23,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-06-21",
+    "outcomes": [
+      "Explain the main principles of evaluating ai outputs.",
+      "Practice evaluating ai outputs through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-094",
+    "title": "Product Launch Communications",
+    "description": "Plan announcements across the right channels. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "durationHours": 12,
+    "lessons": 26,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2025-12-08",
+    "outcomes": [
+      "Explain the main principles of product launch communications.",
+      "Practice product launch communications through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-095",
+    "title": "Presentation Skills Essentials",
+    "description": "Explain your ideas with clarity and confidence. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Advanced",
+    "durationHours": 14,
+    "lessons": 29,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-03-13",
+    "outcomes": [
+      "Explain the main principles of presentation skills essentials.",
+      "Practice presentation skills essentials through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-096",
+    "title": "Security Logging and Monitoring",
+    "description": "Turn useful events into a clearer security picture. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Advanced",
+    "durationHours": 16,
+    "lessons": 32,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2026-06-16",
+    "outcomes": [
+      "Explain the main principles of security logging and monitoring.",
+      "Practice security logging and monitoring through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-097",
+    "title": "Frontend Performance",
+    "description": "Make web experiences load faster and feel smoother. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Beginner",
+    "durationHours": 5,
+    "lessons": 16,
+    "instructor": "Maya Chen",
+    "publishedAt": "2026-03-10",
+    "outcomes": [
+      "Explain the main principles of frontend performance.",
+      "Practice frontend performance through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-098",
+    "title": "Data Storytelling",
+    "description": "Communicate technical findings to nontechnical audiences. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Beginner",
+    "durationHours": 7,
+    "lessons": 19,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-06-13",
+    "outcomes": [
+      "Explain the main principles of data storytelling.",
+      "Practice data storytelling through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-099",
+    "title": "Dashboard Design Principles",
+    "description": "Organize dense information without overwhelming users. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationHours": 9,
+    "lessons": 22,
+    "instructor": "Lina Park",
+    "publishedAt": "2025-11-30",
+    "outcomes": [
+      "Explain the main principles of dashboard design principles.",
+      "Practice dashboard design principles through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-100",
+    "title": "Risk Management Toolkit",
+    "description": "Identify uncertainty and build practical contingency plans. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Intermediate",
+    "durationHours": 11,
+    "lessons": 25,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2026-03-05",
+    "outcomes": [
+      "Explain the main principles of risk management toolkit.",
+      "Practice risk management toolkit through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-101",
+    "title": "AI Product Design",
+    "description": "Shape AI features around real user needs. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Advanced",
+    "durationHours": 13,
+    "lessons": 28,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-06-08",
+    "outcomes": [
+      "Explain the main principles of ai product design.",
+      "Practice ai product design through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-102",
+    "title": "Community Building Basics",
+    "description": "Encourage productive discussion and lasting engagement. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Advanced",
+    "durationHours": 15,
+    "lessons": 31,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2025-11-25",
+    "outcomes": [
+      "Explain the main principles of community building basics.",
+      "Practice community building basics through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-103",
+    "title": "Decision Making Frameworks",
+    "description": "Compare options and communicate trade-offs. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Beginner",
+    "durationHours": 17,
+    "lessons": 8,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-02-28",
+    "outcomes": [
+      "Explain the main principles of decision making frameworks.",
+      "Practice decision making frameworks through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-104",
+    "title": "Cryptography for Beginners",
+    "description": "Understand encryption, hashing, and digital signatures. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "durationHours": 19,
+    "lessons": 11,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-06-03",
+    "outcomes": [
+      "Explain the main principles of cryptography for beginners.",
+      "Practice cryptography for beginners through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-105",
+    "title": "Building with Vite",
+    "description": "Set up a modern development and production workflow. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationHours": 8,
+    "lessons": 21,
+    "instructor": "Nora Ellis",
+    "publishedAt": "2026-02-25",
+    "outcomes": [
+      "Explain the main principles of building with vite.",
+      "Practice building with vite through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-106",
+    "title": "Working with CSV and JSON",
+    "description": "Read, validate, and export common data formats. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "durationHours": 10,
+    "lessons": 24,
+    "instructor": "Samira Patel",
+    "publishedAt": "2026-05-31",
+    "outcomes": [
+      "Explain the main principles of working with csv and json.",
+      "Practice working with csv and json through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-107",
+    "title": "Design Handoff to Developers",
+    "description": "Prepare practical specifications for implementation. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Advanced",
+    "durationHours": 12,
+    "lessons": 27,
+    "instructor": "Ethan Brooks",
+    "publishedAt": "2025-11-17",
+    "outcomes": [
+      "Explain the main principles of design handoff to developers.",
+      "Practice design handoff to developers through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-108",
+    "title": "Operations and Process Mapping",
+    "description": "Spot bottlenecks and improve repeatable workflows. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Advanced",
+    "durationHours": 14,
+    "lessons": 30,
+    "instructor": "Noah Williams",
+    "publishedAt": "2026-02-20",
+    "outcomes": [
+      "Explain the main principles of operations and process mapping.",
+      "Practice operations and process mapping through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-109",
+    "title": "Data Preparation for AI",
+    "description": "Turn messy inputs into trustworthy model-ready datasets. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Beginner",
+    "durationHours": 16,
+    "lessons": 33,
+    "instructor": "Daniel Kim",
+    "publishedAt": "2026-05-26",
+    "outcomes": [
+      "Explain the main principles of data preparation for ai.",
+      "Practice data preparation for ai through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-110",
+    "title": "Search Campaign Fundamentals",
+    "description": "Understand ad intent, creative, and measurement. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "durationHours": 18,
+    "lessons": 10,
+    "instructor": "Alex Morgan",
+    "publishedAt": "2025-11-12",
+    "outcomes": [
+      "Explain the main principles of search campaign fundamentals.",
+      "Practice search campaign fundamentals through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-111",
+    "title": "Learning How to Learn",
+    "description": "Practice recall, feedback, and effective repetition. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Intermediate",
+    "durationHours": 3,
+    "lessons": 13,
+    "instructor": "Emma Rivera",
+    "publishedAt": "2026-02-15",
+    "outcomes": [
+      "Explain the main principles of learning how to learn.",
+      "Practice learning how to learn through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-112",
+    "title": "Risk Assessment Methods",
+    "description": "Evaluate likelihood, impact, and practical responses. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Intermediate",
+    "durationHours": 5,
+    "lessons": 16,
+    "instructor": "Aisha Grant",
+    "publishedAt": "2026-05-21",
+    "outcomes": [
+      "Explain the main principles of risk assessment methods.",
+      "Practice risk assessment methods through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-113",
+    "title": "Full-Stack Project Architecture",
+    "description": "Connect the frontend, services, and database effectively. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Development",
+    "level": "Advanced",
+    "durationHours": 11,
+    "lessons": 26,
+    "instructor": "Ivan Petrov",
+    "publishedAt": "2026-02-12",
+    "outcomes": [
+      "Explain the main principles of full-stack project architecture.",
+      "Practice full-stack project architecture through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-114",
+    "title": "Experiment Analysis",
+    "description": "Measure outcomes and draw careful conclusions from tests. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Data Science",
+    "level": "Advanced",
+    "durationHours": 13,
+    "lessons": 29,
+    "instructor": "Leo Fischer",
+    "publishedAt": "2026-05-18",
+    "outcomes": [
+      "Explain the main principles of experiment analysis.",
+      "Practice experiment analysis through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-115",
+    "title": "Portfolio Case Study Workshop",
+    "description": "Present product thinking through a clear project story. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Design",
+    "level": "Beginner",
+    "durationHours": 15,
+    "lessons": 32,
+    "instructor": "Oliver Reed",
+    "publishedAt": "2026-08-21",
+    "outcomes": [
+      "Explain the main principles of portfolio case study workshop.",
+      "Practice portfolio case study workshop through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-116",
+    "title": "Launching a Digital Product",
+    "description": "Plan a focused, measurable first product release. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Business",
+    "level": "Beginner",
+    "durationHours": 17,
+    "lessons": 9,
+    "instructor": "Maya Chen",
+    "publishedAt": "2026-02-07",
+    "outcomes": [
+      "Explain the main principles of launching a digital product.",
+      "Practice launching a digital product through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-117",
+    "title": "Workflow Automation Projects",
+    "description": "Put small automations together into useful systems. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "AI & Automation",
+    "level": "Intermediate",
+    "durationHours": 19,
+    "lessons": 12,
+    "instructor": "Amira Yusuf",
+    "publishedAt": "2026-05-13",
+    "outcomes": [
+      "Explain the main principles of workflow automation projects.",
+      "Practice workflow automation projects through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-118",
+    "title": "Marketing Report Design",
+    "description": "Present campaign outcomes through concise visuals. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Marketing",
+    "level": "Intermediate",
+    "durationHours": 4,
+    "lessons": 15,
+    "instructor": "Lina Park",
+    "publishedAt": "2026-08-16",
+    "outcomes": [
+      "Explain the main principles of marketing report design.",
+      "Practice marketing report design through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-119",
+    "title": "Managing Multiple Projects",
+    "description": "Track deadlines and context without losing focus. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Productivity",
+    "level": "Advanced",
+    "durationHours": 6,
+    "lessons": 18,
+    "instructor": "Sofia Rahman",
+    "publishedAt": "2026-02-02",
+    "outcomes": [
+      "Explain the main principles of managing multiple projects.",
+      "Practice managing multiple projects through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  },
+  {
+    "id": "course-120",
+    "title": "Security Standards Overview",
+    "description": "Get oriented with common security frameworks and controls. Work through concise lessons, practical examples, and an approachable final exercise.",
+    "category": "Cybersecurity",
+    "level": "Advanced",
+    "durationHours": 8,
+    "lessons": 21,
+    "instructor": "Max Chen",
+    "publishedAt": "2026-05-08",
+    "outcomes": [
+      "Explain the main principles of security standards overview.",
+      "Practice security standards overview through guided exercises and examples.",
+      "Apply the skills from this course to a small personal project."
+    ]
+  }
+]
